@@ -1,0 +1,7 @@
+﻿#EXTM3U
+#EXTINF:0, One.by UHD
+http://rtmp.one.by:1400
+#EXTINF:0, One.by Россия HD
+http://rtmp.one.by:2300
+#EXTINF:0, One.by HD
+http://rtmp.one.by:1300
